@@ -7,4 +7,5 @@
 You can access the source code. We are looking forward to receiving your suggestions and feedback regarding the project. </h4>
 
 <h3> Project View </h3>
-![]( ![Uploading udemig_screen.gif…]())
+![Uploading udemig_screen.gif…]()
+
